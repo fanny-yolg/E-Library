@@ -21,7 +21,8 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="{{ url('/') }}">Home Page</a>
-        <a class="nav-link" href="{{ url('/booklist') }}">Book List QS Library</a>
+        <a class="nav-link" href="{{ url('/books') }}">Book List QS Library</a>
+        <a class="nav-link" href="{{ url('/admin') }}">Admin Panel</a>
       </div>
     </div>
   </div>
