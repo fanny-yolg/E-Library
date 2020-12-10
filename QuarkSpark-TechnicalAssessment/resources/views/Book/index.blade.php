@@ -18,7 +18,7 @@
      </tr>
      </thead>
      <tbody>
-     @foreach( $book as $bk )
+     @foreach( $books as $bk )
      <tr>
         <th scope = "row">{{ $loop->iteration}}</th>
         <td>{{ $bk->Title}}</td>

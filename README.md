@@ -1,2 +1,3 @@
-# EE-Library
+# E-Library
+
 PHP, Laravel, MySQL
